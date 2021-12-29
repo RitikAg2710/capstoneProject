@@ -19,13 +19,13 @@ Thank you for creating them.
 
 ```shell
 # Clone your fork of the repository
-git clone https://github.com/<your-username>/CTF-Website-Template-2020
+git clone https://github.com/<your-username>/capstoneProject
 
 # Navigate to the newly cloned directory
-cd CTF-Website-Template-2020
+cd capstoneProject
 
 # Assign the original repo to a remote called "upstream"
-git remote add upstream https://github.com/<your-username>/CTF-Website-Template-2020
+git remote add upstream https://github.com/<your-username>/capstoneProject
 ```
 If this is something you think you can fix, then fork and create a branch with a descriptive name.
 
@@ -107,8 +107,8 @@ Tells me the problem that you have found, and the pull request shows me the acti
 
 The aim of this repository is:
 
-* To provide a beautiful and cool looking CTF website
-* Make it easier for CTF organizers to host CTFs by giving them a good looking UI
+* To provide a beautiful and cool looking capstoneProject website
+* Make it easier for capstoneProject organizers to host capstoneProject by giving them a good looking UI
 * Foster a culture of respect and gratitude in the open source community.
 
 # Happy Coding!
