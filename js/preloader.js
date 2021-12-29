@@ -60,7 +60,7 @@ var strings = [
   "Loading content",
   "Page rendered",
   "Starting display manager",
-  "WELCOME TO LAKSHYA CTF INC 2020",
+  "WELCOME TO GAMIFY RSP INC 2022",
   "Initializing..."
 ];
 
